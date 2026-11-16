@@ -1,0 +1,6 @@
+{
+  "name": "سُفرة ERP — نظام إدارة المطاعم المتكامل",
+  "description": "نظام متكامل لإدارة المطاعم (ERP & POS) مع نقطة بيع، صلاحيات مستخدمين، إدارة الأصناف والأحجام والوصفات، المخزون، المحاسبة والتدقيق المالي، وتصدير Excel و PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
